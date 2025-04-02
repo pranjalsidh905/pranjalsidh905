@@ -1,4 +1,4 @@
-## Hi there 👋
+![MasterHead](https://miro.medium.com/max/1400/1*g__jiesLRIfCRefVG69Pfw.gif)
 
 <!--
 **pranjalsidh905/pranjalsidh905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
