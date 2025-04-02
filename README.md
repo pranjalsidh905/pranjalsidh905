@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/max/1400/1*g__jiesLRIfCRefVG69Pfw.gif)
+![MasterHead](https://i.gifer.com/75ez.gif)
 
 # Hi there, I'm Pranjal Sharma! 👋
 
