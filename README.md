@@ -5,7 +5,7 @@
 ## 🚀 Full Stack Developer | MERN Stack | Scalable Architectures
 
 ### 👨‍💻 About Me:
-- 💻 Full Stack Developer with 1+ years of experience.
+- 💻 Full Stack Developer with 2+ years of experience.
 - 🔥 Passionate about backend and frontend development, API design, and database management.
 - 🚀 Skilled in building scalable and industry-oriented applications.
 - 🏥 Currently working on **Innovative Hospital Management System** for real-time surgery scheduling.
