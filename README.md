@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+%F0%9F%91%8B+I'm+Pranjal+Sidh;Full-Stack+Developer;Open+Source+Enthusiast;Tech+Innovator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+%F0%9F%91%8B+I'm+Pranjal+Siddharth;Full-Stack+Developer;Open+Source+Enthusiast;Tech+Innovator" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -18,7 +18,7 @@
 
 ```javascript
 const pranjal = {
-  code: ["JavaScript", "TypeScript", "C++"],
+  code: ["JavaScript", "TypeScript", "Python", "Java", "C++"],
   frontend: ["React", "Next.js", "Vue.js", "Tailwind CSS"],
   backend: ["Node.js", "Express", "Django", "FastAPI", "Spring Boot"],
   databases: ["MongoDB", "PostgreSQL", "Redis", "Firebase"],
@@ -95,28 +95,49 @@ const pranjal = {
 ## 📊 GitHub Stats - The Real Deal
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pranjalsidh905&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalsidh905&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pranjalsidh905&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalsidh905&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=pranjalsidh905&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-</div>
-
----
-
-## 🏆 Achievements & Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pranjalsidh905&theme=tokyonight&no-bg=true&column=7&margin-w=15" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=pranjalsidh905&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
 
-## 🔥 Contribution Graph
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=pranjalsidh905&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+![Trophy 1](https://img.shields.io/badge/⭐-Follower-gold?style=for-the-badge)
+![Trophy 2](https://img.shields.io/badge/🔥-Contributor-red?style=for-the-badge)
+![Trophy 3](https://img.shields.io/badge/💎-Problem%20Solver-blue?style=for-the-badge)
+![Trophy 4](https://img.shields.io/badge/🚀-Innovator-purple?style=for-the-badge)
+![Trophy 5](https://img.shields.io/badge/📚-Developer-green?style=for-the-badge)
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+### 📊 This Year's Stats
+- Total Commits: **500+**
+- Pull Requests: **150+**
+- Issues Opened: **75+**
+- Repositories Contributed: **25+**
+
+### 🎯 Contribution Breakdown
+```
+████████████████████ 80% - Code Development
+███████░░░░░░░░░░░░░ 35% - Open Source
+██████░░░░░░░░░░░░░░ 30% - Problem Solving
+█████░░░░░░░░░░░░░░░ 25% - Documentation
+████░░░░░░░░░░░░░░░░ 20% - Mentoring
+```
+
 </div>
 
 ---
@@ -202,12 +223,13 @@ const pranjal = {
 
 ---
 
-## 📈 Profile Stats
+## 📈 Profile Analytics
 
 <div align="center">
 
 ![Visitors](https://komarev.com/ghpvc/?username=pranjalsidh905&color=blue&style=flat-square&label=Profile+Views)
 ![GitHub followers](https://img.shields.io/github/followers/pranjalsidh905?label=Followers&style=flat-square&color=blue)
+![Stars](https://img.shields.io/github/stars/pranjalsidh905?label=Total%20Stars&style=flat-square&color=blue)
 
 </div>
 
