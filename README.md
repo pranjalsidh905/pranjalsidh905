@@ -1,131 +1,106 @@
-# 💻 Pranjal Siddharth
-
-```
-  ___  ____  ___    _   ___   _   _    _     _____ 
- | _ \|  _ \|_ _|  | \ | _ \ | | | |  / \   |_   _|
- | |_) | |_| || |   |  \|  __|| | | | / _ \    | |  
- |  __/|  _ < | |   | |\| |__\\ V / / ___ \   | |  
- |_|   |_| \_|___\  |_| |_____|\\_/ /_/   \_\  |_|  
-
-             Full-Stack Developer | Open Source Contributor
-              Building scalable solutions with modern tech
-```
-
----
-
-## 🚀 Welcome to My Digital Space
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+%F0%9F%91%8B+I'm+Pranjal+Siddharth;Full-Stack+Developer;Open+Source+Enthusiast;Tech+Innovator" alt="Typing SVG" />
+</h1>
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-006d-b38efb9c4d71.gif" width="100" />
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Open+Source+Enthusiast;Tech+Innovator;Problem+Solver;Coffee+Driven+Developer)](https://git.io/typing-svg)
-
+  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranjal-siddharth)
+  [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pranjalsidh905)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranjalsidh905@gmail.com)
+  [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranjalsidh905)
+  
 </div>
 
 ---
 
-## 👨‍💻 About Me
-
-<table>
-<tr>
-<td>
-
-I'm a passionate full-stack developer with expertise in building scalable web applications and contributing to open-source projects. I thrive on solving complex problems and continuously learning emerging technologies.
-
-- 🎯 **Focused on**: Building high-performance, user-centric applications
-- 🌟 **Passionate about**: Clean code, DevOps, and system design
-- 📚 **Learning**: Advanced Cloud Architecture, Kubernetes, and AI/ML
-- 💡 **Philosophy**: Code is read more than written—clarity matters
-
-</td>
-<td width="400">
+## 🎯 Quick Overview
 
 ```javascript
-const developer = {
-  name: "Pranjal Siddharth",
-  location: "India",
-  role: "Full-Stack Developer",
-  passion: ["Web Dev", "Open Source", "DevOps"],
-  coffee: "∞",
-  workspace: {
-    os: "Linux",
-    editor: "VSCode",
-    terminal: "Zsh"
-  }
-};
+const pranjal = {
+  code: ["JavaScript", "TypeScript", "Python", "Java", "C++"],
+  frontend: ["React", "Next.js", "Vue.js", "Tailwind CSS"],
+  backend: ["Node.js", "Express", "Django", "FastAPI", "Spring Boot"],
+  databases: ["MongoDB", "PostgreSQL", "Redis", "Firebase"],
+  devops: ["Docker", "Kubernetes", "AWS", "CI/CD", "GitHub Actions"],
+  currentlyLearning: "Advanced System Design & Web3",
+  lookingFor: "Opportunities in Fullstack/Backend roles",
+  fun_fact: "I debug faster when I have coffee in hand ☕"
+}
 ```
 
-</td>
-</tr>
-</table>
+---
+
+## 💼 Experience Snapshot
+
+- 🚀 **2+ Years** Building scalable web applications
+- 🎨 **100+ Projects** Completed with excellence
+- 🌟 **10K+** Lines of production code
+- 🤝 **50+** Open source contributions
+- 🏆 **Top Contributor** in multiple GitHub repos
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
+### 🎨 Frontend Weapons
 <div align="center">
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=flat-square&logo=mui&logoColor=white)
 
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=materialui&logoColor=white)
+</div>
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+### ⚙️ Backend Power
+<div align="center">
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-239120?style=for-the-badge&logo=github-actions&logoColor=white)
+</div>
 
-### Cloud Platforms
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+### 🗄️ Database Masters
+<div align="center">
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white)
+
+</div>
+
+### 🚀 DevOps & Cloud
+<div align="center">
+
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats - The Real Deal
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranjalsidh905&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalsidh905&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pranjalsidh905&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalsidh905&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
----
-
-## 🔥 GitHub Streak
-
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=pranjalsidh905&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
+  <img width="70%" src="https://streak-stats.demolab.com?user=pranjalsidh905&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
 
 ---
@@ -133,101 +108,139 @@ const developer = {
 ## 🏆 Achievements & Trophies
 
 <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=pranjalsidh905&theme=tokyonight&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=pranjalsidh905&theme=tokyonight&no-bg=true&column=7&margin-w=15" />
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 🔥 Contribution Graph
+
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=pranjalsidh905&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</div>
+
+---
+
+## 💎 Featured Projects
 
 <div align="center">
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pranjalsidh905&theme=tokyo-night&hide_border=true)
+| 🎯 Project | 📝 Description | 🛠️ Tech Stack | ⭐ |
+|-----------|---------------|--------------|-----|
+| **[Portfolio 2.0](https://github.com/pranjalsidh905/portfolio)** | Modern portfolio with animations | React, Tailwind, Framer Motion | ⭐⭐⭐⭐⭐ |
+| **[E-Commerce Pro](https://github.com/pranjalsidh905/ecommerce)** | Full-stack shopping platform | MERN, Stripe, AWS | ⭐⭐⭐⭐ |
+| **[Real-time Chat](https://github.com/pranjalsidh905/chat-app)** | Live messaging system | Socket.io, React, Node.js | ⭐⭐⭐⭐ |
+| **[Task Master API](https://github.com/pranjalsidh905/task-api)** | REST API with caching | Node.js, PostgreSQL, Redis | ⭐⭐⭐⭐ |
+| **[ML Pipeline](https://github.com/pranjalsidh905/ml-project)** | Production ML deployment | Python, FastAPI, Docker | ⭐⭐⭐ |
+| **[Cloud Infrastructure](https://github.com/pranjalsidh905/iac)** | IaC with Terraform | Terraform, AWS, Docker | ⭐⭐⭐ |
 
 </div>
 
 ---
 
-## 🎯 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack | Stars |
-|---------|-------------|-----------|-------|
-| **[Portfolio Website](https://github.com/pranjalsidh905/portfolio)** | Modern, responsive portfolio with dark theme | React, Tailwind, Next.js | ![Stars](https://img.shields.io/github/stars/pranjalsidh905/portfolio?style=flat-square&color=yellow) |
-| **[Fullstack E-Commerce](https://github.com/pranjalsidh905/ecommerce-app)** | Complete e-commerce platform with payments | MERN Stack, Stripe | ![Stars](https://img.shields.io/github/stars/pranjalsidh905/ecommerce-app?style=flat-square&color=yellow) |
-| **[Real-time Chat App](https://github.com/pranjalsidh905/chat-application)** | WebSocket-based messaging application | Socket.io, React, Node.js | ![Stars](https://img.shields.io/github/stars/pranjalsidh905/chat-application?style=flat-square&color=yellow) |
-| **[Task Management API](https://github.com/pranjalsidh905/task-api)** | RESTful API with authentication & caching | Node.js, PostgreSQL, Redis | ![Stars](https://img.shields.io/github/stars/pranjalsidh905/task-api?style=flat-square&color=yellow) |
-| **[ML Model Deployment](https://github.com/pranjalsidh905/ml-deployment)** | Production ML pipeline with Docker | Python, FastAPI, Docker | ![Stars](https://img.shields.io/github/stars/pranjalsidh905/ml-deployment?style=flat-square&color=yellow) |
-| **[Cloud Infrastructure](https://github.com/pranjalsidh905/infra-as-code)** | IaC setup for AWS deployment | Terraform, AWS, Docker | ![Stars](https://img.shields.io/github/stars/pranjalsidh905/infra-as-code?style=flat-square&color=yellow) |
-
-</div>
-
----
-
-## 📚 Currently Learning
+## 🎓 What I'm Learning Right Now
 
 <div align="center">
 
 ```
-┌─────────────────────────────────────────┐
-│ 🚀 Learning Path & Skill Development    │
-├─────────────────────────────────────────┤
-│ ✨ Advanced TypeScript & Design Patterns│
-│ 🤖 Machine Learning & Data Science      │
-│ ☸️  Kubernetes & Container Orchestration │
-│ 🔐 Cybersecurity & API Security        │
-│ 📡 Microservices Architecture           │
-│ 🎮 Web3 & Blockchain Development       │
-└─────────────────────────────────────────┘
+┌─────────────────────────────────────────────────┐
+│           🚀 LEARNING ROADMAP 2026             │
+├─────────────────────────────────────────────────┤
+│ ✅ Advanced TypeScript & Design Patterns        │
+│ ⏳ Machine Learning & Computer Vision           │
+│ ⏳ Kubernetes & Advanced DevOps                  │
+│ ⏳ System Design & Scalability                   │
+│ ⏳ Web3 & Smart Contracts                        │
+│ ⏳ Microservices Architecture                    │
+└─────────────────────────────────────────────────┘
 ```
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## 🌟 What People Say
 
 <div align="center">
 
-### 📲 Social Media & Contact
+> "Pranjal is a talented developer with great problem-solving skills and attention to detail."
+> 
+> — **Project Lead**
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranjalsidh905@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranjal-siddharth)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pranjalsidh905)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranjalsidh905)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=web&logoColor=white)](https://pranjalsiddharth.com)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/pranjalsidh905)
+> "Excellent communication and always willing to help the team grow."
+> 
+> — **Tech Mentor**
 
 </div>
 
 ---
 
-## 💼 Open to Opportunities
+## 💬 Let's Connect & Collaborate
 
 <div align="center">
 
-I'm actively looking for:
-- 🏢 **Full-stack development roles** at innovative companies
-- 📖 **Open-source collaboration** on impactful projects
-- 🎓 **Mentorship opportunities** to grow as a developer
-- 💡 **Freelance projects** that challenge my skills
+**I love connecting with fellow developers! Whether it's:**
+- 🤝 Collaboration on open-source projects
+- 💼 Job opportunities (Full-stack, Backend roles)
+- 🎓 Mentorship & knowledge sharing
+- 💡 Project ideas & feedback
+- ☕ Just a chat about tech!
 
-**Feel free to reach out for collaboration, opportunities, or just a chat about tech!**
+</div>
+
+<div align="center">
+
+### Get In Touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pranjal-siddharth)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/pranjalsidh905)
+[![Email](https://img.shields.io/badge/Email-pranjalsidh905@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:pranjalsidh905@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge)](https://pranjalsiddharth.com)
+[![Discord](https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord)](https://discord.com/users/yourID)
 
 </div>
 
 ---
 
-## 📊 Visitor Analytics
+## 📈 Profile Stats
 
 <div align="center">
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=pranjalsidh905.pranjalsidh905&left_color=darkblue&right_color=00D9FF&left_text=Visitors)
+![Visitors](https://komarev.com/ghpvc/?username=pranjalsidh905&color=blue&style=flat-square&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/pranjalsidh905?label=Followers&style=flat-square&color=blue)
 
-![Profile Views](https://komarev.com/ghpvc/?username=pranjalsidh905&color=00D9FF)
+</div>
+
+---
+
+## 🎨 Fun Stuff
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+**Interests:**
+- 🎮 Gaming & Game Dev
+- 📱 Mobile Apps
+- 🤖 AI/ML Projects
+- 📚 Tech Blogs
+- 🎵 Music Production
+
+</td>
+<td>
+
+**Hobbies:**
+- 💻 Side Projects
+- 🏋️ Fitness
+- ☕ Coffee Exploration
+- 🎬 Movies
+- 🌍 Travel
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -235,10 +248,14 @@ I'm actively looking for:
 
 <div align="center">
 
-### ⭐ If you find this profile interesting, don't hesitate to star my repositories!
+### ⭐ If you find my work interesting, consider giving my repositories a star!
 
-**Made with ❤️ by Pranjal Siddharth**
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5719dbe0ffe1.gif" width="50" />
 
-Last updated: June 2026
+**Let's build something amazing together! 🚀**
+
+---
+
+<sub>Made with ❤️ by Pranjal Siddharth | Last Updated: June 2026</sub>
 
 </div>
