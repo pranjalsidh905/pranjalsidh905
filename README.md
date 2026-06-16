@@ -18,7 +18,7 @@
 
 ```javascript
 const pranjal = {
-  code: ["JavaScript", "TypeScript", "Python", "Java", "C++"],
+  code: ["JavaScript", "TypeScript", "C++"],
   frontend: ["React", "Next.js", "Vue.js", "Tailwind CSS"],
   backend: ["Node.js", "Express", "Django", "FastAPI", "Spring Boot"],
   databases: ["MongoDB", "PostgreSQL", "Redis", "Firebase"],
